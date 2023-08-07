@@ -1,4 +1,4 @@
-Electricity Consumption Logbook Analyzer
+# Electricity Consumption Logbook Analyzer
 
 Description:
 The Electricity Consumption Logbook Analyzer is an open-source project that empowers users to gain valuable insights from electricity consumption data. Developed with permission from modeloff, a global financial modeling competition, this tool efficiently processes and visualizes large datasets to help users make informed decisions regarding energy consumption and efficiency.
